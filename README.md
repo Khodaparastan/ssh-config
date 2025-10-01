@@ -1,6 +1,6 @@
 # SSH Configuration
 
-Modular, cross-platform SSH configuration with flexible installation options.
+A modular, cross-platform SSH client configuration with a focus on security, performance, and flexibility. Features a smart installer with "copy" and "symlink" modes, automatic OS detection (macOS, Linux, WSL), and manifest-based uninstallation. Comes with secure defaults, connection multiplexing, and pre-configured patterns for cloud, git platforms, and bastion hosts. Perfect for managing your SSH environment and integrating with your dotfiles.
 
 ## 🚀 Quick Start
 
