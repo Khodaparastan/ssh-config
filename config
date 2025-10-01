@@ -1,0 +1,9 @@
+# Main SSH Configuration
+
+# Include modular configs (order matters!)
+Include config.d/*.conf
+
+# Fallback for any undefined hosts
+Host *
+    # Catch-all - should not normally reach here
+    LogLevel INFO
